@@ -1,0 +1,6 @@
+* KITTI Road Sementic Segmentation
+
+The problem is to segment driving roads from others
+
+** Dataset
+- [[http://www.cvlibs.net/datasets/kitti/eval_road.php][KITTI Road/Lane Detection Dataset]]
