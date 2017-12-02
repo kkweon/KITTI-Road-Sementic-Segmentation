@@ -107,3 +107,4 @@ data
 logs
 *.mp4
 pretrained_vgg
+*.org
